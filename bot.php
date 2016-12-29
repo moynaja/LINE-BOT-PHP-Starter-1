@@ -28,7 +28,7 @@ if (!is_null($events['events'])) {
 						   Bot มอยโคตรเจ๋ง4'
 				];
 				
-			
+			}
 			else if($text == 'mink'){
 				// Build message to reply back
 				$messages = [
