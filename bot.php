@@ -22,7 +22,7 @@ if (!is_null($events['events'])) {
 				// Build message to reply back
 				$messages = [
 					'type' => 'text',
-					'text' => 'Bot มอยโคตรเจ๋ง!!!<br>กากมาก'
+					'text' => 'Bot มอยโคตรเจ๋ง/t!!!/nกากมาก'
 				];
 				
 			}else{
